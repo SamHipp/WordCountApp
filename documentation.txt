@@ -1,0 +1,5 @@
+WORD COUNT APP
+
+FEATURES
+Displays word count of the input passage in real time
+ -To begin, simply type or copy/paste some words in the input field
